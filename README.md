@@ -9,4 +9,5 @@ The dashboard includes:
 - Department-wise Attrition
 - Average Age of Employees
 - Job Satisfaction metrics.
--  This tool facilitates data-driven decision-making, identifies trends, enhances employee engagement, and aids in the formulation of effective retention strategies. The user-friendly interface ensures accessibility for various stakeholders, making it a valuable asset for strategic HR planning.
+
+This tool facilitates data-driven decision-making, identifies trends, enhances employee engagement, and aids in the formulation of effective retention strategies. The user-friendly interface ensures accessibility for various stakeholders, making it a valuable asset for strategic HR planning.
